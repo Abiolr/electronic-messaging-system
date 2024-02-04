@@ -1,0 +1,182 @@
+1 R
+Jemma
+Harry
+What were you thinking?
+Harry,
+
+You seriously need to stop claiming your paperclip orders under
+the heading art supplies.
+
+Jemma
+EOF
+2 R
+Jemma
+Jason
+I really really want to talk to you about those expense claims!
+Subject says it all...
+
+Jemma
+EOF
+3 R
+Jason
+Jemma
+New copies in your mailbox.
+EOF
+4 R
+Bob
+Harry
+True Story
+Hi Harry,
+
+Dell is selling computers with key loggers.  Apparently the RCMP
+aked them to!
+
+Bob
+EOF
+5 R
+Harry
+Jemma
+Art is Art
+It's not like I actually use them for work though...
+EOF
+6 R
+Harry
+Jason
+True Story!
+Dell is selling computers with key loggers.  Apparently the RCMP
+aked them to!
+EOF
+7 R
+Bob
+Jemma
+I can't believe I ate the whole thing.
+Hi Jemma,
+
+Your cake was delicious.  I actually ate the whole thing last night.
+What was your secret ingredient?  You promised you'd tell me after I
+ate it.
+
+Bob
+EOF
+8 R
+Jemma
+Jason
+Expense Report
+Jason,
+
+The expense report you filled out was missing a 356B attachment.
+I'm sure you just forgot it.  Please bring it over to my office
+when you can.
+
+Jemma
+EOF
+9 R
+Jason
+Harry
+Not True
+Hi Harry,
+
+According to snopes.com, that isn't true.
+
+Jason
+EOF
+10 R
+Jason
+Jemma
+Expense Report, Attempt 2
+Hi Jemma,
+
+Sorry about that, I thought that the 67FGH report cover included
+that information...  The new version is in your mailbox.
+
+Jason
+EOF
+11 R
+Harry
+Bob
+Not True
+Actually, Bob, according to Snopes that isn't true.
+EOF
+12 R
+Bob
+Jason
+Dinner Thursday
+Hi Jason,
+
+I don't think we can make it to dinner on Thursday---Julia's knees
+aren't what they used to be.  Maybe next week?
+
+Bob
+EOF
+13 R
+Jemma
+Bob
+Secret Ingredient
+Bob,
+
+The secret ingredient is love...  just kidding.  It's really tuna!
+I was doubtful myself until I tried it.
+
+Jemma
+EOF
+14 R
+Jason
+Jon Jacob Jingleheimer Schmidt
+Challenge!
+I challenge you to a duel.
+EOF
+15 R
+Bob
+Jemma
+What!?!
+Hi Jemma,
+
+You've got to be kidding, right?
+
+Bob
+EOF
+16 N
+Jemma
+Bob
+Expense Report
+Bob,
+
+Did you turn in your expense report?  I'm not seeing it in my inbox.
+
+Jemma
+EOF
+17 N
+Jon Jacob Jingleheimer Schmidt
+Jason
+Oh, Really...
+You're on!
+EOF
+18 N
+Jemma
+Bob
+Seriously.
+
+EOF
+19 N
+Bob
+Harry
+Snopes.com
+Hi Harry,
+
+Thanks for the information about snopes.com, I hadn't heard of that site
+before.
+
+Bob
+EOF
+20 N
+Jason
+Bob
+Dinner Next Week
+Hi Bob,
+
+Of course I knew that about Julia, I'm sorry that I didn't think about
+that ahead of time.  How about next Wednesday you come over for
+Mexican, and we'll skip the football?
+
+Jason
+EOF
